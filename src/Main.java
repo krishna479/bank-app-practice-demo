@@ -16,7 +16,7 @@ public class Main {
        System.out.println( obj.CheckBalance());
        System.out.println( obj.addmoney(500));
         System.out.println(obj.calint(5));
-       System.out.println( obj.withdraw(1,"123"));
+       System.out.println( obj.withdraw(1,"123g"));
 
 
     }
